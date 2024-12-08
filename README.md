@@ -1,5 +1,5 @@
 # OBI_questoes
-repositório contendo soluções de todas as questões da OBI
+repositório contendo soluções de todas as questões da OBI,
 a organização está da seguinte forma:
 
 anos -> níveis -> fases -> questões
