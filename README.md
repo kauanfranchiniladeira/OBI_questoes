@@ -7,4 +7,6 @@ cada folder tem um README, inclusive os folders das questões, onde o README con
 
 inicialmente haverá a pasta de todos os anos, porém não todas as questões, ja deixare tudo arquitetado para só ir lançando as questões
 
+deixo aqui avisado que só haverá soluções das quesstões da modalidade de programação, não tendo nenhum conteúdo da modalidade iniciação, e também todas as soluções serão em C++
+
 obrigado pela compreensão
